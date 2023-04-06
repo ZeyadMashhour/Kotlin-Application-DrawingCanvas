@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/AndroidStudioProjects/DrawingCanvas/app/src/main/res/drawable-v24/pallet_pressed.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/AndroidStudioProjects/DrawingCanvas/app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.1505" />
+        <entry key="..\:/AndroidProjects/AndroidStudioProjects/DrawingCanvas/app/src/main/res/drawable/large.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/AndroidStudioProjects/DrawingCanvas/app/src/main/res/drawable/medium.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/AndroidStudioProjects/DrawingCanvas/app/src/main/res/drawable/pallet_normal.xml" value="0.18" />
+        <entry key="..\:/AndroidProjects/AndroidStudioProjects/DrawingCanvas/app/src/main/res/drawable/small.xml" value="0.1505" />
+        <entry key="..\:/AndroidProjects/AndroidStudioProjects/DrawingCanvas/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidProjects/AndroidStudioProjects/DrawingCanvas/app/src/main/res/layout/dialog_brush_size.xml" value="0.30277777777777776" />
+        <entry key="..\:/AndroidProjects/AndroidStudioProjects/DrawingCanvas/app/src/main/res/layout/dialog_custom_progress.xml" value="0.2563405797101449" />
+        <entry key="..\:/AndroidProjects/AndroidStudioProjects/DrawingCanvas/app/src/main/res/xml/path.xml" value="0.17806484295845998" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
